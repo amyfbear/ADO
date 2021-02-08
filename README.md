@@ -56,10 +56,14 @@
 - **Who was the earliest person to join the company (use join_date)?**
   
   *  Arch Wiffield
+  * Charisse Shipp
 
 - **Who was the most recent person to join the company (use join_date)?**
     
     * Sarita Peppin
+     * Rowan De Bellis
+     * Sabra Easlea
+     * Phillpe Guillerman
     
    ### Further Analysis 
     
