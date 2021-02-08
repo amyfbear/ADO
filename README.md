@@ -79,10 +79,27 @@ That way we have a better idea of where our customers are located. This allows u
   * Central America        11
   * Australia & Oceania      8
   
-  
+ - **Top Countries**
+
+    * United States     366
+    * China              65
+    * Germany            44
+    * Japan              41
+    * United Kingdom     24
+    * Brazil             21
+    * France             19
+    * Netherlands        17
+    * South Korea        17
+    * Canada             17
+    * Russia             13
+    * Argentina           9
+    * Norway              9
+    * Taiwan              8
+    
 Observations & Reccomendations:
 
-I would reccomend focusing our targeted marketing to North America The N/A data are from bogon IP adresses which are non static and pratically impossible to trace.
+I would reccomend focusing our targeted marketing to North America (United States), Europe(Germany,United Kingdom & France) & Asia (China & Japan).
+The N/A data are from bogon IP adresses which are non static and pratically impossible to trace.
 If I had more financal data such as sales etc.. I could have done a more indepth analysis and offered more business intelligence insights. 
 
 
