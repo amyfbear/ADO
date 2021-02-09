@@ -67,7 +67,7 @@
     
    ### Further Analysis 
     
-- In order to extract more information from the data, I took then IP address and used a module to get the geopgraphic locations then mapped them.
+- In order to extract more information from the data, I used a module to extract the geographic locations from the IP address and then mapped them.
 That way we have a better idea of where our customers are located. This allows us to create a more well informed and targeted digital marketing strategy. 
 
 ![Customer Map by Continent](/pics/map.png)
